@@ -68,9 +68,22 @@ This Repository has been created to lay the building foundation for my career as
 | --       | Decrement   | --x          |
 
 <br>
+<br>
 
 ### Assignment Operators:
 
-<img align="center" width="" height="" src="./projects/w3schools/img/w3_assignment_operators.png" alt="Assignment Operators">
+<img align="center" width="" height="" src="./img/w3_assignment_op.png" alt="Assignment Operators">
 
+<br>
+<br>
 
+### Java Comparison Operators:
+
+<img align="center" width="" height="" src="./img/w3_comparison_op.png" alt="Comparison Operators">
+
+<br>
+<br>
+
+### Java Logical Operators:
+
+<img align="center" width="" height="" src="./img/w3_logical_op.png" alt="Logical Operators">
