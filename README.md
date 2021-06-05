@@ -56,7 +56,7 @@ This Repository has been created to lay the building foundation for my career as
 ## Operators
 <br>
 
-### Arithmetic Operators
+### Arithmetic Operators:
 | Operator | Name        | Description  |
 |:--------:|:----------- |:------------ |
 | +        | Addition    | x + y        |
@@ -67,5 +67,10 @@ This Repository has been created to lay the building foundation for my career as
 | ++       | Increment   | ++x          |
 | --       | Decrement   | --x          |
 
-[img]: https://github.com/nickegli/java-beginning/projects/w3schools/img/w3_assignment_operators.png "Assignment Operators"
+<br>
+
+### Assignment Operators:
+
+<img align="center" width="" height="" src="./projects/w3schools/img/w3_assignment_operators.png" alt="Assignment Operators">
+
 
