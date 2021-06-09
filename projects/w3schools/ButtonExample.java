@@ -2,7 +2,7 @@ import java.awt.event.*;
 import javax.swing.*;
 
 public class ButtonExample {  
-    public static void main(String[] args) {  
+    public static void Main(String[] args) {  
         JFrame f=new JFrame("Button Example");  
         final JTextField tf=new JTextField();  
         tf.setBounds(50,50, 150,20);  
