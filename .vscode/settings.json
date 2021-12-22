@@ -2,5 +2,6 @@
     "java.project.sourcePaths": [
         "projects/tictactoe",
         "projects/w3schools"
-    ]
+    ],
+    "java.dependency.packagePresentation": "hierarchical"
 }
